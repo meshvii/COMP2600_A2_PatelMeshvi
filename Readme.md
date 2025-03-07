@@ -66,19 +66,8 @@ Below is an example of how your resume should be formatted in Markdown for Pelic
 
 You can use - [Dillinger](https://dillinger.io/) for your markdown file generation.
 
-```markdown
-Title: My Resume
-Date: 2025-03-05
-Category: Resume
-Tags: pelican, github-pages
-Authors: Meshvi Patel
-Summary: A static site hosting my resume.
-# Meshvi Patel
-Winnipeg, MB, Canada  
-Email: [your.email@example.com](mailto:your.email@example.com)  
-LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
-GitHub: [your-github](https://github.com/your-github)
-```
+You can reference to my resume.md which is under content folder.
+
 ### **Format a Resume in Markdown**
 1. **Use Markdown elements** – Structure your resume using headings, lists, hyperlinks, bold/italic text, and optionally tables or images.
 2. **Choose content** – Use your own resume or find an example online, such as from [Overleaf’s CV Gallery](https://www.overleaf.com/gallery/tagged/cv).
