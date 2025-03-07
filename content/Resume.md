@@ -4,8 +4,7 @@ Modified: 2025-02-11 19:30
 Category: Public Resume's
 Tags: pelican, publishing
 Authors: Meshvi Patel
-Summary: Hello I'm under water, please help me!!
-This website is to share your resume and have it critiqued
+Summary: This website is to share your resume and have it critiqued
 
 # Meshvi Patel
 Winnipeg, MB, Canada  
