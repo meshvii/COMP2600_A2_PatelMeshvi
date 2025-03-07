@@ -162,11 +162,12 @@ Etter strongly advocates for **distributed version control**, ensuring that docu
 ### **Q: My resume changes aren't appearing. What do I do?**  
 **A:** Regenerate the site with:
    ```bash
-   pelican content
+   pelican content -s publishconf.py
    ```
    Then redeploy using:
    ```bash
    ghp-import output -b gh-pages
+   git add ./
    git push origin gh-pages
    ```
 
